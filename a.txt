@@ -1,2 +1,3 @@
+Hi sample test 
 a.txt
 a.txt in feature.
